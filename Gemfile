@@ -44,6 +44,8 @@ end
 gem 'bootstrap-sass'
 gem 'bcrypt'
 gem 'faker'
+gem 'will_paginate'
+gem 'bootstrap-will_paginate'
 
 group :development do
   # Access an IRB console on exception pages or by using <%= console %> anywhere in the code.
